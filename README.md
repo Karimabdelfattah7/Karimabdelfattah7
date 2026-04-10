@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Computer Science Student @ University of Louisville</b><br>
-  Aspiring Software Engineer | Full-Stack Developer | Shopify Developer
+  Aspiring Software Engineer 
 </p>
 
 <p align="center">
