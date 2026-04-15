@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Computer Science Student @ University of Louisville</b><br>
-  Aspiring Software Engineer 
+  Aspiring Software Engineer
 </p>
 
 <p align="center">
@@ -24,13 +24,20 @@ I'm a Computer Science student at the University of Louisville, passionate about
 - 🛒 Built a live Shopify theme for **Customized Teez** — a Louisville KY streetwear brand
 - 🖧 Working on a distributed systems capstone project (network node architecture)
 - 💡 Always looking for internship opportunities in software engineering, web dev, or systems
-- 📫 Reach me at: **Karimsherif2026@gmail.com**
+- 📫 Reach me at: [Karimsherif2026@gmail.com](mailto:Karimsherif2026@gmail.com)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🛍️ [Customized Teez — Shopify Theme](https://github.com/Karimsherif-7/customized-teez-theme)
+### 📡 IoT Beverage Dispensing & Monitoring System *(CSE 596 Capstone — Spring 2026)*
+> A wireless, offline-first IoT diagnostic platform for commercial beverage dispensers. Three sensor nodes transmit real-time telemetry over LoRa radio to a Raspberry Pi 5 gateway, where data is stored in InfluxDB and visualized through a Grafana dashboard — no internet or Wi-Fi required.
+
+**Tech:** C/C++ · Arduino · LoRa32 · Raspberry Pi 5 · MQTT · InfluxDB · Grafana
+
+---
+
+### 🛍️ Customized Teez — Shopify Theme
 > Custom Shopify theme built from scratch for a Louisville KY streetwear brand. Features a dark streetwear aesthetic with custom homepage sections, brand color schemes, and responsive Liquid templates.
 
 **Tech:** Liquid · JavaScript · CSS · Shopify CLI
@@ -73,8 +80,8 @@ I'm a Computer Science student at the University of Louisville, passionate about
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Karimsherif-7&show_icons=true&theme=dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karimsherif-7&layout=compact&theme=dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Karimabdelfattah7&show_icons=true&theme=dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karimabdelfattah7&layout=compact&theme=dark&hide_border=true" width="48%" />
 </p>
 
 ---
