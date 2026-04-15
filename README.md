@@ -20,7 +20,7 @@
 
 I'm a Computer Science student at the University of Louisville, passionate about building real-world software solutions. From custom Shopify storefronts to distributed systems and full-stack web apps, I love turning ideas into working products.
 
-- 🎓 CS Student at University of Louisville (graduating 2026)
+- 🎓 CS Student at University of Louisville (graduating 2027)
 - 🛒 Built a live Shopify theme for **Customized Teez** — a Louisville KY streetwear brand
 - 🖧 Working on a distributed systems capstone project (network node architecture)
 - 💡 Always looking for internship opportunities in software engineering, web dev, or systems
