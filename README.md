@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Karim Sherif 👋</h1>
+<h1 align="center">Hi, I'm Karim Abdelfattah 👋</h1>
 
 <p align="center">
   <b>Computer Science Student @ University of Louisville</b><br>
