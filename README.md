@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://karimabdelfattah7.github.io/portfolio" target="_blank">
+  <a href="https://karimabdelfattah.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-black?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/karimabdelfattah7" target="_blank">
