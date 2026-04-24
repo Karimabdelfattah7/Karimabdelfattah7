@@ -95,8 +95,8 @@ I'm a dual-degree Computer Science & Engineering student at the University of Lo
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Karimabdelfattah7&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" width="57%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karimabdelfattah7&layout=compact&theme=dark&hide_border=true" width="57%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Karimabdelfattah7&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karimabdelfattah7&layout=compact&theme=dark&hide_border=true" width="48%" />
 </p>
 
 ---
