@@ -14,7 +14,7 @@ My work focuses on building practical systems across embedded hardware, IoT, sof
 
 ## Currently
 
-- B.S. Computer Science & Engineering, University of Louisville, expected May 2027
+- B.E. Computer Science & Engineering, University of Louisville, expected May 2027
 - B.E. Computer & Communication Engineering, Alexandria University, September 2026
 - 3.87 GPA at the University of Louisville
 - Dean's Scholar, Fall 2025 and Spring 2026
